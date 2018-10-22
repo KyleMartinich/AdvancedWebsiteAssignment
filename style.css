@@ -1,0 +1,70 @@
+body {
+	border: 10px solid green;
+	Background-color: #09ef8f;
+	text-align: center;
+}
+div
+	{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	margin-right: 30px;
+	margin-left: 30px;
+	}
+.topnav {
+	overflow: hidden;
+	background-color: #00fffa;
+}
+}
+.topnav a {
+	float: left;
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 14px 16px;
+	text-decorator: none;
+}
+.header {
+	background-color: #00fffa;
+	text-align: center;
+	padding: 5px;
+	border: 2px solid black;
+	}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.footer {
+    width: 100%;
+    text-align: center;
+}
+.column1{
+	float: center;
+}
+.column1.side{
+		width: 25%;
+}
+.column1.middle{
+		width: 25%;
+}
+.column2{
+	float: center;
+}
+.column2.side{
+		width: 45%;
+}
+.column2.middle{
+		width: 45%;
+.column3{
+	float: center;
+}
+.column3.side{
+		width: 33%;
+}
+.column3.middle{
+		width: 33%;
+.row{
+	float: center;
+	width: 100%
+)
